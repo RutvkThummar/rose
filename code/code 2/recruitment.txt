@@ -1,0 +1,66 @@
+1. Introduction
+1.1 Purpose
+The purpose of this document is to specify the requirements for an online recruitment system, which facilitates the process of hiring and selecting candidates for job vacancies.
+
+1.2 Scope
+The online recruitment system will provide a user-friendly interface for job seekers, recruiters, and administrators to create and manage job listings, submit applications, conduct interviews, and make hiring decisions. The system will also include features for resume management, candidate assessment, and communication.
+
+2. Functional Requirements
+2.1 User Registration and Authentication
+
+The system shall provide a user registration feature for job seekers and recruiters to create an account.
+Users shall be able to log in using their credentials (e.g., username, password).
+The system shall authenticate users and provide access based on user roles (e.g., job seeker, recruiter, administrator).
+2.2 Job Listing Management
+
+Recruiters shall be able to create new job listings, providing job details (e.g., title, description, requirements, location).
+Recruiters shall be able to edit and delete job listings.
+The system shall allow recruiters to set application deadlines and manage the status of job listings.
+2.3 Application Submission and Tracking
+
+Job seekers shall be able to search and view available job listings.
+Job seekers shall be able to submit their applications, providing personal information, resumes, and cover letters.
+The system shall track the status of applications (e.g., received, under review, shortlisted, rejected).
+2.4 Resume Management
+
+Job seekers shall be able to create and manage their resumes within the system.
+The system shall support resume templates and allow job seekers to upload their own resume files.
+Recruiters shall be able to view and download resumes of applicants.
+2.5 Candidate Assessment
+
+Recruiters shall be able to evaluate and assess candidates based on their applications, resumes, and interviews.
+The system shall provide features for recruiters to add comments, ratings, and feedback on candidates.
+Recruiters shall be able to shortlist and reject candidates based on their assessment.
+2.6 Interview Scheduling and Management
+
+Recruiters shall be able to schedule interviews with shortlisted candidates.
+The system shall send notifications to candidates regarding interview details (e.g., date, time, location, format).
+Recruiters shall be able to record interview results and make hiring decisions.
+2.7 Communication and Notifications
+
+The system shall facilitate communication between recruiters and candidates.
+Users shall be able to send messages, share updates, and ask questions within the system.
+The system shall send notifications to users regarding application status changes, interview invitations, and other important updates.
+3. Non-functional Requirements
+3.1 Performance
+
+The system shall be able to handle multiple concurrent users and maintain responsiveness.
+The response time for user interactions (e.g., submitting applications, loading job listings) shall be within acceptable limits.
+3.2 Security
+
+User passwords shall be securely stored using encryption techniques.
+The system shall implement secure user authentication and authorization mechanisms.
+Access to job listings, applications, and candidate information shall be controlled based on user roles and permissions.
+3.3 Usability
+
+The user interface shall be intuitive and easy to navigate.
+The system shall provide helpful notifications, tooltips, and error messages.
+The system shall support different languages and accessibility standards.
+4. Entity-Relationship (ER) Diagram
+
+[Here, you can include the ER diagram for the database schema of the recruitment system. Please note that without the specific
+
+
+
+
+
